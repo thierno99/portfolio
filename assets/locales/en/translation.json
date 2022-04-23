@@ -36,5 +36,7 @@
     "l3": "License 3 computer science",
     "l2": "License 2 computer science",
     "l1": "License 1 computer science",
-    "discover": "Discover"
+    "discover": "Discover",
+    "cb": "Created by",
+    "arr": "All rights reserved"
 }
